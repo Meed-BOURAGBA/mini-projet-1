@@ -1,6 +1,4 @@
 # mini-projet-1
-# Outil pour visualiser les informations sur les accidents de la rout.
-
 L'objectif de cette application est de fournir à l'utilisateur un outil pour visualiser les informations 
 sur les accidents de la route, chose qui va lui permettre d'éviter les routes dangereuse.
 	On distingue entre deux utilisateurs
