@@ -16,7 +16,7 @@
     "circle-to-polygon": "^1.0.0",
     "csv": "^2.0.0",
     "event-stream": "^3.3.4",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "geolib": "^2.0.24",
     "jsonwebtoken": "^8.1.1",
